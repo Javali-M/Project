@@ -6,7 +6,7 @@ This project is a web based application that uses Javascript, React.js, Node.js 
 
 ## Appendix
 
-Any additional information goes here
+Users are able to join groups and message other users in real-time.
 
 
 ## Authors
@@ -14,11 +14,6 @@ Any additional information goes here
 - [@Akshitha](https://github.com/akshitha-Sony)
 - [@Javali](https://github.com/Javali-M)
 - [@Shambhavi](https://github.com/shambhu1212)
-
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
 
 
 ## Screenshots
