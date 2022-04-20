@@ -16,7 +16,4 @@ Users are able to join groups and message other users in real-time.
 - [@Shambhavi](https://github.com/shambhu1212)
 
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
